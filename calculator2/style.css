@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+table {
+    margin: auto;
+}
+
+input{
+    font-size: 8vh;
+    width: 41vh;
+    height: 11vh;
+    background-image: linear-gradient(to right ,lightgrey , grey);
+    margin-top: 3px;
+    margin-bottom: 2px;
+    text-align: right;
+    
+}
+
+button{
+    font-size: 30px;
+    width: 10vh;
+    height: 8vh;
+    background-image: linear-gradient(-45deg ,rgb(124, 77, 77) , rgb(176, 194, 207) )
+}
+
+.calculator{
+    display: inline-block;
+    border: 3px solid black;
+    background-color: darkgrey;
+    border-radius: 2%;
+    padding: 2px;
+    
+}
